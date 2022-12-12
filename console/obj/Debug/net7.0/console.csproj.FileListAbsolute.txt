@@ -1,0 +1,15 @@
+/Users/mugangadavid/Projects/console/console/bin/Debug/net7.0/console
+/Users/mugangadavid/Projects/console/console/bin/Debug/net7.0/console.deps.json
+/Users/mugangadavid/Projects/console/console/bin/Debug/net7.0/console.runtimeconfig.json
+/Users/mugangadavid/Projects/console/console/bin/Debug/net7.0/console.dll
+/Users/mugangadavid/Projects/console/console/bin/Debug/net7.0/console.pdb
+/Users/mugangadavid/Projects/console/console/obj/Debug/net7.0/console.csproj.AssemblyReference.cache
+/Users/mugangadavid/Projects/console/console/obj/Debug/net7.0/console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mugangadavid/Projects/console/console/obj/Debug/net7.0/console.AssemblyInfoInputs.cache
+/Users/mugangadavid/Projects/console/console/obj/Debug/net7.0/console.AssemblyInfo.cs
+/Users/mugangadavid/Projects/console/console/obj/Debug/net7.0/console.csproj.CoreCompileInputs.cache
+/Users/mugangadavid/Projects/console/console/obj/Debug/net7.0/console.dll
+/Users/mugangadavid/Projects/console/console/obj/Debug/net7.0/refint/console.dll
+/Users/mugangadavid/Projects/console/console/obj/Debug/net7.0/console.pdb
+/Users/mugangadavid/Projects/console/console/obj/Debug/net7.0/console.genruntimeconfig.cache
+/Users/mugangadavid/Projects/console/console/obj/Debug/net7.0/ref/console.dll
